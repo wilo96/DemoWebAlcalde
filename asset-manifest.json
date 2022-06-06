@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DemoWebAlcalde/static/css/main.db62e734.css",
+    "main.js": "/DemoWebAlcalde/static/js/main.506bbd8d.js",
+    "index.html": "/DemoWebAlcalde/index.html",
+    "main.db62e734.css.map": "/DemoWebAlcalde/static/css/main.db62e734.css.map",
+    "main.506bbd8d.js.map": "/DemoWebAlcalde/static/js/main.506bbd8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62e734.css",
+    "static/js/main.506bbd8d.js"
+  ]
+}
